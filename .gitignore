@@ -1,0 +1,26 @@
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration secrets
+.env
+
+# Dossiers de données
+data/
+*.csv
+*.xlsx
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Dossiers MLflow
+mlruns/
